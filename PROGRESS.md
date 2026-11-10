@@ -10,9 +10,10 @@ Mission 2 - Test Data Validator
 missions/mission-02-test-data-validator/test_data_validator.py
 
 ## Completed
+Intitial Version
 
 ## Next
-Intitial Version
+Upgrade 1
 
 ## Repository Workflow
 VS Code -> Git -> GitHub -> ChatGPT code review
