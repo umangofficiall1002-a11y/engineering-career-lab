@@ -10,7 +10,7 @@ def filter_by_status(test_results, status):
     filtered_results = []
     for result in test_results:
         if result["status"] == status:
-            filtered_results.append(result["name"])
+            filtered_results.append(result)
     return filtered_results
 
 def search_test(test_results, test_name):
@@ -20,7 +20,7 @@ def search_test(test_results, test_name):
     return None
 
 
-user_input = input("Enter a test name to search: ")
+user_input = input("Enter a test name to search(without Test keyword or any special characters): ")
 searched_test = user_input + " Test"
 print(f"Searched Test Result: {search_test(test_results, searched_test)}")
 

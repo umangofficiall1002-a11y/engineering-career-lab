@@ -4,7 +4,7 @@
 Python Engineering Missions
 
 ## Current Mission
-Mission 2 - Test Data Validator
+Mission 3 - Test Result Filtering
 
 ## Current File
 missions/mission-03-test-result-filtering/test_result_filter.py
@@ -13,7 +13,7 @@ missions/mission-03-test-result-filtering/test_result_filter.py
 
 
 ## Next
-Intitial Version
+Initial Version
 
 ## Repository Workflow
 VS Code -> Git -> GitHub -> ChatGPT code review
